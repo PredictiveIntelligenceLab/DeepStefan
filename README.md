@@ -9,4 +9,9 @@ problems present a great computational challenge because they necessitate numeri
 
 ## Citation
 
-TBA
+    @article{wang2020deep,
+      title={Deep learning of free boundary and Stefan problems},
+      author={Wang, Sifan and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2006.05311},
+      year={2020}
+    }
